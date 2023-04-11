@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/project_modern_ui_ux_restaurant/static/css/main.bb9dab35.chunk.css",
+    "main.js": "/project_modern_ui_ux_restaurant/static/js/main.532cbc98.chunk.js",
+    "main.js.map": "/project_modern_ui_ux_restaurant/static/js/main.532cbc98.chunk.js.map",
+    "runtime-main.js": "/project_modern_ui_ux_restaurant/static/js/runtime-main.21d8f94b.js",
+    "runtime-main.js.map": "/project_modern_ui_ux_restaurant/static/js/runtime-main.21d8f94b.js.map",
+    "static/js/2.a766e07b.chunk.js": "/project_modern_ui_ux_restaurant/static/js/2.a766e07b.chunk.js",
+    "static/js/2.a766e07b.chunk.js.map": "/project_modern_ui_ux_restaurant/static/js/2.a766e07b.chunk.js.map",
+    "index.html": "/project_modern_ui_ux_restaurant/index.html",
+    "static/css/main.bb9dab35.chunk.css.map": "/project_modern_ui_ux_restaurant/static/css/main.bb9dab35.chunk.css.map",
+    "static/js/2.a766e07b.chunk.js.LICENSE.txt": "/project_modern_ui_ux_restaurant/static/js/2.a766e07b.chunk.js.LICENSE.txt",
+    "static/media/G.b571eb82.png": "/project_modern_ui_ux_restaurant/static/media/G.b571eb82.png",
+    "static/media/award01.361a4bc4.png": "/project_modern_ui_ux_restaurant/static/media/award01.361a4bc4.png",
+    "static/media/award02.8bbdd514.png": "/project_modern_ui_ux_restaurant/static/media/award02.8bbdd514.png",
+    "static/media/award03.3f7ee934.png": "/project_modern_ui_ux_restaurant/static/media/award03.3f7ee934.png",
+    "static/media/award05.48a7f520.png": "/project_modern_ui_ux_restaurant/static/media/award05.48a7f520.png",
+    "static/media/App.css": "/project_modern_ui_ux_restaurant/static/media/bg.3d421b1b.png",
+    "static/media/chef.02d6c5b6.png": "/project_modern_ui_ux_restaurant/static/media/chef.02d6c5b6.png",
+    "static/media/findus.585c393c.png": "/project_modern_ui_ux_restaurant/static/media/findus.585c393c.png",
+    "static/media/gallery01.f2cbffe3.png": "/project_modern_ui_ux_restaurant/static/media/gallery01.f2cbffe3.png",
+    "static/media/gallery02.27663bd9.png": "/project_modern_ui_ux_restaurant/static/media/gallery02.27663bd9.png",
+    "static/media/gallery03.b2d50180.png": "/project_modern_ui_ux_restaurant/static/media/gallery03.b2d50180.png",
+    "static/media/gallery04.c36a695f.png": "/project_modern_ui_ux_restaurant/static/media/gallery04.c36a695f.png",
+    "static/media/knife.1121c0a5.png": "/project_modern_ui_ux_restaurant/static/media/knife.1121c0a5.png",
+    "static/media/laurels.e7608286.png": "/project_modern_ui_ux_restaurant/static/media/laurels.e7608286.png",
+    "static/media/logo.0286194c.png": "/project_modern_ui_ux_restaurant/static/media/logo.0286194c.png",
+    "static/media/meal.a1b6c6dc.mp4": "/project_modern_ui_ux_restaurant/static/media/meal.a1b6c6dc.mp4",
+    "static/media/menu.a8287c67.png": "/project_modern_ui_ux_restaurant/static/media/menu.a8287c67.png",
+    "static/media/overlaybg.165362ee.png": "/project_modern_ui_ux_restaurant/static/media/overlaybg.165362ee.png",
+    "static/media/sign.9bf0bd90.png": "/project_modern_ui_ux_restaurant/static/media/sign.9bf0bd90.png",
+    "static/media/spoon.b5681c86.svg": "/project_modern_ui_ux_restaurant/static/media/spoon.b5681c86.svg",
+    "static/media/welcome.d724eb98.png": "/project_modern_ui_ux_restaurant/static/media/welcome.d724eb98.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.21d8f94b.js",
+    "static/js/2.a766e07b.chunk.js",
+    "static/css/main.bb9dab35.chunk.css",
+    "static/js/main.532cbc98.chunk.js"
+  ]
+}
